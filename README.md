@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSMaruthi
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Cloud computing
+- 🌱 I’m currently learning Full stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
