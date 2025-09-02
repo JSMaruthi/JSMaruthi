@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JSMaruthi
+- 👋 Hi, I’m @SMaruthi
 - 👀 I’m interested in Data Analytics, Cloud Computing
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... @maruthis779gmail.com
 
 <!---
 JSMaruthi/JSMaruthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
